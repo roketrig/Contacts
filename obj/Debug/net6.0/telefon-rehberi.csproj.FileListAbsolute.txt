@@ -1,0 +1,15 @@
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\telefon-rehberi.csproj.AssemblyReference.cache
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\telefon-rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\telefon-rehberi.AssemblyInfoInputs.cache
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\telefon-rehberi.AssemblyInfo.cs
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\telefon-rehberi.csproj.CoreCompileInputs.cache
+C:\Users\b1mks\Desktop\telefon-rehberi\bin\Debug\net6.0\telefon-rehberi.exe
+C:\Users\b1mks\Desktop\telefon-rehberi\bin\Debug\net6.0\telefon-rehberi.deps.json
+C:\Users\b1mks\Desktop\telefon-rehberi\bin\Debug\net6.0\telefon-rehberi.runtimeconfig.json
+C:\Users\b1mks\Desktop\telefon-rehberi\bin\Debug\net6.0\telefon-rehberi.dll
+C:\Users\b1mks\Desktop\telefon-rehberi\bin\Debug\net6.0\telefon-rehberi.pdb
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\telefon-rehberi.dll
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\refint\telefon-rehberi.dll
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\telefon-rehberi.pdb
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\telefon-rehberi.genruntimeconfig.cache
+C:\Users\b1mks\Desktop\telefon-rehberi\obj\Debug\net6.0\ref\telefon-rehberi.dll
