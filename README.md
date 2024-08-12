@@ -1,1 +1,1 @@
-Bir telefon rehberi uygulaması, yeni kişiler telefon listesine eklenebilir düzenlenebilir veya silinebilir.
+A phone book application, new contacts can be added to the phone list, edited or deleted.
